@@ -73,7 +73,7 @@ X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=
 
 Please cite the following report if you use this repository in your research:
 
-**INDOT Report**: [Field-Validated Deep Learning Model for Piezoelectric-Based In-Situ Concrete Strength Sensing](https://rosap.ntl.bts.gov/view/dot/54753)
+**INDOT Report**: [Determining the Optimal Traffic Opening Timing Through an In-Situ NDT Method for Concrete Early Age Properties](https://rosap.ntl.bts.gov/view/dot/54753)
 
 ## License
 
